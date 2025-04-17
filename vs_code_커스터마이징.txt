@@ -1,0 +1,35 @@
+VS code 커스터마이징: 중괄호 내의 코드를 복사해서 settings.json 파일에 붙여넣기 
+
+{
+    "security.workspace.trust.enabled": false,
+    "[dart]": {
+        "editor.codeActionsOnSave": {
+            "source.fixAll": true
+        },
+        "editor.rulers": [
+            80
+        ],
+        "editor.selectionHighlight": false,
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": false,
+    },
+    "dart.warnWhenEditingFilesOutsideWorkspace": false,
+    "dart.renameFilesWithClasses": "prompt",
+    "window.zoomLevel": 4,
+    "workbench.colorTheme": "Dracula",
+    "editor.bracketPairColorization.enabled": true,
+    "editor.fontFamily": " 'NanumGothicCoding', Consolas, 'Courier New', monospace",
+    "editor.fontSize": 18,
+    "editor.inlineSuggest.enabled": true,
+    "editor.formatOnSave": true,
+    "editor.stickyScroll.enabled": true,
+    "explorer.fileNesting.patterns": {
+        "*.dart": "${capture}.g.dart, ${capture}.freezed.dart"
+    },
+    "explorer.fileNesting.enabled": true,
+    "explorer.fileNesting.expand": false,
+    "workbench.startupEditor": "none",
+    "dart.openDevTools": "flutter"
+}
