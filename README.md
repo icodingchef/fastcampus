@@ -3,9 +3,9 @@
 ## ChatGPT 맞춤설정
 - 링크로 이동해서 영상의 각 단계별로 명령어를 복사해서 사용하기 바랍니다.
 - [ChatGPT 행동방식 명령](https://github.com/icodingchef/fastcampus/blob/main/LLM%20Traits.txt)
-- [ChaGPT 자기소개]
-## 제 2장: 윈도우 개발 환경 구축
-- 입문단계에서 첫 번째 허들이 될 수 있는 윈도우용 플러터 개발환경을 실패없이 구축하는 방법을 설명합니다.
+- [ChaGPT 자기소개](https://github.com/icodingchef/fastcampus/blob/main/%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C.txt)
+## VS code 커스터마이징
+- 영상에서 설명하는대로, 중괄호 내의 코드를 복사해서 settings.json 파일에 붙여넣기 해줍니다.
 ## 제 3장: 맥 OS 개발 환경 구축
 - 맥 환경에서 플러터 개발환경 구축은 의외로 꽤 까다롭습니다. 실리콘 맥(M2)를 기준으로 실패없이 플러터 개발환경을 구축하는 방법을 설명합니다.
 ## 제 4장: 플러터의 핵심은 위젯이다!
