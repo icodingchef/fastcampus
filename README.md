@@ -6,6 +6,7 @@
 - [ChaGPT 자기소개](https://github.com/icodingchef/fastcampus/blob/main/%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C.txt)
 ## VS code 커스터마이징
 - 영상에서 설명하는대로, 중괄호 내의 코드를 복사해서 settings.json 파일에 붙여넣기 해줍니다.
+- [VS code setting 파일](https://github.com/icodingchef/fastcampus/blob/main/vs_code_%EC%BB%A4%EC%8A%A4%ED%84%B0%EB%A7%88%EC%9D%B4%EC%A7%95.txt)
 ## 제 3장: 맥 OS 개발 환경 구축
 - 맥 환경에서 플러터 개발환경 구축은 의외로 꽤 까다롭습니다. 실리콘 맥(M2)를 기준으로 실패없이 플러터 개발환경을 구축하는 방법을 설명합니다.
 ## 제 4장: 플러터의 핵심은 위젯이다!
