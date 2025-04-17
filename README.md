@@ -7,8 +7,9 @@
 ## VS code 커스터마이징
 - 영상에서 설명하는대로, 중괄호 내의 코드를 복사해서 settings.json 파일에 붙여넣기 해줍니다.
 - [VS code setting 파일](https://github.com/icodingchef/fastcampus/blob/main/vs_code_%EC%BB%A4%EC%8A%A4%ED%84%B0%EB%A7%88%EC%9D%B4%EC%A7%95.txt)
-## 제 3장: 맥 OS 개발 환경 구축
-- 맥 환경에서 플러터 개발환경 구축은 의외로 꽤 까다롭습니다. 실리콘 맥(M2)를 기준으로 실패없이 플러터 개발환경을 구축하는 방법을 설명합니다.
+## 공룡 캐릭터 카드앱 프로젝트 소스코드
+- [프로젝트 소스코드](https://github.com/icodingchef/dinosaur_card)
+- [각 공룡 상세 소개 데이터](https://github.com/icodingchef/dinosaur_card/blob/main/dinosaur_info.txt)
 ## 제 4장: 플러터의 핵심은 위젯이다!
 - 위젯의 기본 개념을 한 번에 이해할 수 있도록 설명합니다.
 ## 제 5장: 플러터를 위한 다트 기초지식
