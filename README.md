@@ -10,3 +10,6 @@
 ## 공룡 캐릭터 카드앱 프로젝트 소스코드
 - [프로젝트 소스코드](https://github.com/icodingchef/dinosaur_card)
 - [각 공룡 상세 소개 데이터](https://github.com/icodingchef/dinosaur_card/blob/main/dinosaur_info.txt)
+## Mac 환경세팅 명령어
+- 영상에서 설명하는 순서대로, 필요한 명령어를 복사해서 사용하기 바랍니다.
+- [VS code setting 파일](https://github.com/icodingchef/fastcampus/blob/main/vs_code_%EC%BB%A4%EC%8A%A4%ED%84%B0%EB%A7%88%EC%9D%B4%EC%A7%95.txt)
