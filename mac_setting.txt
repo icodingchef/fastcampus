@@ -1,0 +1,22 @@
+Mac 개발환경 세팅: 영상에서 설명하는 각 단계별로 명령어를 복사해서 사용하세요.
+
+1. 로제타 2 설치
+sudo softwareupdate --install-rosetta --agree-to-license
+
+2. .zshrc 파일 열기
+nano ~/.zshrc
+
+3. Fluttter SDK 경로설정
+export PATH="$PATH:[PATH_OF_FLUTTER_GIT_DIRECTORY]/bin"
+
+4. zshrc 파일 변경 설정 저장
+source ~/.zshrc
+
+5. iOS 시뮬레이터 열기
+open -a Simulator
+
+6. Command Line Tools 설치
+xcode-select --install
+
+7. CocoaPods 설치
+sudo gem install cocoapods
